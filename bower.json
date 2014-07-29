@@ -1,0 +1,21 @@
+{
+  "name": "responsive",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tiy-chs-q4-fee/responsive-intro",
+  "authors": [
+    "Calvin Webster <calweb@gmail.com>"
+  ],
+  "license": "mit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "underscore": "~1.6.0",
+    "angular": "~1.2.21"
+  }
+}

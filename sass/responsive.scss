@@ -1,0 +1,19 @@
+
+@media all and (max-width: 500px) {
+  .icon {
+    display: block;
+  }
+  .mainContent {
+    background-color:blue;
+    width:100%;
+  }
+  .sidebar {
+    display:none;
+  }
+  .secretMenu {
+    display: block;
+  }
+  nav > ul {
+    display:none;
+  }
+}

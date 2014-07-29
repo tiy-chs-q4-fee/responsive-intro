@@ -1,0 +1,24 @@
+.wrapper {
+  width:100%;
+  clear:both;
+}
+.wrapper:before {
+  content: "";
+  clear:both;
+}
+.wrapper:after {
+  content: "";
+  clear:both;
+}
+.mainContent {
+  display:block;
+  float:left;
+  width: 72.5%;
+  background-color: red;
+}
+.sidebar {
+  display:block;
+  float:left;
+  width: 25%;
+  background-color: green;
+  }
